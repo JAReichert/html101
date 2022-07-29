@@ -1,0 +1,14 @@
+body {
+  background-color: blue;
+}
+li {
+  font-size: 18px;
+  background-color: orange;
+}
+
+.wash {
+  background-color: red;
+}
+#clean {
+  background-color: blueviolet;
+}
